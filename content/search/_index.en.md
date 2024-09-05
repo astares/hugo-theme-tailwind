@@ -1,5 +1,5 @@
 +++
 layout = "search"
 outputs = ["html", "json"]
-"sitemap.priority" = 0.1
+"sitemap.priority" = "0.1"
 +++
